@@ -21,6 +21,7 @@
 - 🎮 Create models and assets for Roblox experiences
 - 🤝 Help build and moderate online communities
 - 🔧 Break things until they work better
+- 😆 Code a tiny bit
 
 ---
 
