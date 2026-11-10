@@ -42,3 +42,4 @@
 
 - ☎️ +1 (610) 548-3638 x1021
 - 📧 hello@bonos.top
+- 📧 bonosfr@is.noskid.ong
